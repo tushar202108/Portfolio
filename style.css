@@ -607,6 +607,7 @@ header .navbar ul li a:hover {
 .skills {
   background-color: #000;
   transition: 3s;
+ height:100vh;
 }
 
 #skillcontainer {
