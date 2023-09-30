@@ -29,12 +29,6 @@ var pic = [
 ]
 var celticColor = "#ffa001",
   indoIranianColor = "#535050";
-
-
-
-
-window.addEventListener('click', function () {
-  window.scrollY;
   
 
   Highcharts.chart('skillcontainer', {
@@ -112,8 +106,6 @@ window.addEventListener('click', function () {
     }]
   });
 
-
-})
 
 const x = document.getElementsByClassName("carEdu");
 const arr = ['school10', 'school12', 'clg'];
